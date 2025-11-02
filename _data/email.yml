@@ -179,6 +179,16 @@ websites:
       otp: Yes
       doc: https://pobox.com/helpspot/index.php?pg=kb.chapter&id=65
 
+    - name: Postdirect
+      url: https://postdirect.net/
+      img: postdirect.png
+      tfa: Yes
+      software: Yes
+      hardware: Yes
+      multipleu2f: Yes
+      otp: Yes
+      doc: https://postdirect.net/documentation#faq-2fa
+
     - name: Posteo
       url: https://posteo.de/
       img: posteo.png
